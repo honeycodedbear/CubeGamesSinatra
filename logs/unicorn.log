@@ -1,0 +1,24 @@
+I, [2015-01-19T22:43:20.122437 #21946]  INFO -- : listening on addr=/tmp/unicorn.CubeGamesSinatra.sock fd=10
+I, [2015-01-19T22:43:20.126890 #21946]  INFO -- : worker=0 spawning...
+I, [2015-01-19T22:43:20.131735 #21946]  INFO -- : worker=1 spawning...
+I, [2015-01-19T22:43:20.133154 #21946]  INFO -- : worker=2 spawning...
+I, [2015-01-19T22:43:20.133966 #21949]  INFO -- : worker=0 spawned pid=21949
+I, [2015-01-19T22:43:20.134184 #21949]  INFO -- : Refreshing Gem list
+I, [2015-01-19T22:43:20.135467 #21946]  INFO -- : worker=3 spawning...
+I, [2015-01-19T22:43:20.136507 #21952]  INFO -- : worker=1 spawned pid=21952
+I, [2015-01-19T22:43:20.136712 #21952]  INFO -- : Refreshing Gem list
+I, [2015-01-19T22:43:20.147791 #21946]  INFO -- : master process ready
+I, [2015-01-19T22:43:20.155754 #21954]  INFO -- : worker=2 spawned pid=21954
+I, [2015-01-19T22:43:20.156010 #21954]  INFO -- : Refreshing Gem list
+I, [2015-01-19T22:43:20.163770 #21957]  INFO -- : worker=3 spawned pid=21957
+I, [2015-01-19T22:43:20.164020 #21957]  INFO -- : Refreshing Gem list
+I, [2015-01-19T22:43:20.721759 #21949]  INFO -- : worker=0 ready
+I, [2015-01-19T22:43:20.725333 #21952]  INFO -- : worker=1 ready
+I, [2015-01-19T22:43:20.727663 #21954]  INFO -- : worker=2 ready
+I, [2015-01-19T22:43:20.728464 #21957]  INFO -- : worker=3 ready
+24.193.253.214 - - [19/Jan/2015:22:48:45 -0500] "GET / HTTP/1.0" 200 12529 0.0688
+24.193.253.214 - - [19/Jan/2015:22:48:45 -0500] "GET /js/jquery-2.1.3.min.js HTTP/1.0" 200 84320 0.0337
+24.193.253.214 - - [19/Jan/2015:22:48:45 -0500] "GET /js/index.js HTTP/1.0" 200 971 0.0044
+24.193.253.214 - - [19/Jan/2015:22:48:45 -0500] "GET /css/bootstrap.min.css HTTP/1.0" 200 117150 0.1449
+24.193.253.214 - - [19/Jan/2015:22:48:45 -0500] "GET /css/index.css HTTP/1.0" 200 772 0.1247
+24.193.253.214 - - [19/Jan/2015:22:48:45 -0500] "GET /js/bootstrap.min.js HTTP/1.0" 200 35452 0.1358
