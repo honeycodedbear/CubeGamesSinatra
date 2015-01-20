@@ -1,0 +1,58 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.hidden{
+  display:none;
+}
+
+.title{
+  text-align: center;
+}
+
+.jumbotron{
+  background: #85C2FF;
+}
+
+#btn0{
+  margin-top: 30px;
+}
+#btn1{
+  margin-top: 30px;
+}
+#btn2{
+  margin-top: 30px;
+}
+#btn3{
+  margin-top: 30px;
+}
+#btn4{
+  margin-top: 30px;
+}
+#btn5{
+  margin-top: 30px;
+}
+#btnW{
+  margin-top: 30px;
+}
+
+.row{
+  margin-bottom: 30px;
+}
+
+.btn-xlarge {
+  padding: 18px 28px;
+  font-size: 3.5em; //change this to your desired size
+  line-height: normal;
+  -webkit-border-radius: 2d;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+
+.panel{
+  font-size: 36px;
+}
+
+.panel-title{
+  font-size: 36px;
+}
