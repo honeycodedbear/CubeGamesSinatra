@@ -1,0 +1,15 @@
+2015-01-22 00:10:35.202 CubeGame[3881:114764] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/maxrogers/Library/Developer/CoreSimulator/Devices/ED471062-FFCF-42A2-BAEF-0A740750C1FA/data/Containers/Data/Application/531F517E-B9D6-4414-9A22-CECBA9A3B2DA/Library/Cookies/Cookies.binarycookies
+2015-01-22 00:10:35.454 CubeGame[3881:114764] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-22 00:10:35.454 CubeGame[3881:114764] Multi-tasking -> Device: YES, App: YES
+2015-01-22 00:10:35.464 CubeGame[3881:114764] Unlimited access to network resources
+2015-01-22 00:10:35.472 CubeGame[3881:114764] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-22 00:10:37.243 CubeGame[3881:114764] Resetting plugins due to page load.
+2015-01-22 00:10:37.541 CubeGame[3881:114764] Finished load of: file:///Users/maxrogers/Library/Developer/CoreSimulator/Devices/ED471062-FFCF-42A2-BAEF-0A740750C1FA/data/Containers/Bundle/Application/CA6372DD-66B6-4C9E-813E-AFBEBB15B527/CubeGame.app/www/index.html
+2015-01-22 00:57:18.099 CubeGame[3881:131958] Terminating since there is no system app.
